@@ -1,0 +1,25 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(156, 241, 145)
+  }
+  h1 {
+    color:rgb(243, 6, 168)
+  }
+  a :hover{
+    text-decoration: underline;
+    color:rgb(150, 200, rgb(255, 6, 6));
+  }
+  p{
+    text-decoration: underline;
+    color:rgb(255, 6, 6);
+  }
+  .most-important {
+    background-color: rgb(30, 101, 145);
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid, black;
+    border-radius: 10px;
+  }
+  #other-content{
+    background-color: rgb(246, 255, 0);
+  }
